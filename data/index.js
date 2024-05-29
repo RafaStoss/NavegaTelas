@@ -25,7 +25,7 @@ let DATA = [
         porcentagem :'16%' ,
         titulo : 'Dormir',
         imagem :'https://i.pinimg.com/736x/b2/90/cc/b290ccdf30f5a008d137d21ffaaf3510.jpg',
-        Descricao :'Amo dormir e tirar um cochilinho a qualquer horaÇ',
+        Descricao :'Amo dormir e tirar um cochilinho a qualquer hora.',
     },
     {
         id : '05',

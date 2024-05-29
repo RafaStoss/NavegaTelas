@@ -32,7 +32,7 @@ let DATA = [
         porcentagem : '16%' ,
         titulo : 'Ouvir Musica',
         imagem :'https://i.scdn.co/image/ab67616d00001e023b22ae7c4454ef26a83824c2',
-        Descricao :'Amo escutar musica...da Lana Del ReyÇ ' ,
+        Descricao :'Amo escutar musica...da Lana Del Rey.' ,
     },
     {
         id : '06',
